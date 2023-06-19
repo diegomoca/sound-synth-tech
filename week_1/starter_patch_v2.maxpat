@@ -40,6 +40,17 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 224.0, 364.0, 47.0, 20.0 ],
+					"text" : "cambio"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-45",
 					"maxclass" : "message",
 					"numinlets" : 2,
