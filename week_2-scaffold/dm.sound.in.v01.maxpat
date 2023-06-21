@@ -189,16 +189,60 @@
 , 			{
 				"box" : 				{
 					"basictuning" : 0,
-					"clipheight" : 117.0,
+					"clipheight" : 22.600000000000001,
 					"data" : 					{
 						"clips" : [ 							{
-								"absolutepath" : "epno.aiff",
-								"filename" : "epno.aiff",
+								"absolutepath" : "/Users/elektronischesstudio/Documents/Universidad/synth-tech-media/648437__timouse__piano-loop-21.wav",
+								"filename" : "648437__timouse__piano-loop-21.wav",
 								"filekind" : "audiofile",
-								"id" : "u322002497",
-								"loop" : 1,
+								"id" : "u051009999",
+								"loop" : 0,
 								"content_state" : 								{
-									"loop" : 1
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "/Users/elektronischesstudio/Documents/Universidad/synth-tech-media/CTp-ord-A3-mf.aif",
+								"filename" : "CTp-ord-A3-mf.aif",
+								"filekind" : "audiofile",
+								"id" : "u185008925",
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "/Users/elektronischesstudio/Documents/Universidad/synth-tech-media/RB.vox.sung.consonants.ki.Db4.wav",
+								"filename" : "RB.vox.sung.consonants.ki.Db4.wav",
+								"filekind" : "audiofile",
+								"id" : "u400008924",
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "/Users/elektronischesstudio/Documents/Universidad/synth-tech-media/RB.vox.sung.vocalization.Db4.wav",
+								"filename" : "RB.vox.sung.vocalization.Db4.wav",
+								"filekind" : "audiofile",
+								"id" : "u401008923",
+								"loop" : 0,
+								"content_state" : 								{
+
+								}
+
+							}
+, 							{
+								"absolutepath" : "/Users/elektronischesstudio/Documents/Universidad/synth-tech-media/Vn-jette-E5-mf.aif",
+								"filename" : "Vn-jette-E5-mf.aif",
+								"filekind" : "audiofile",
+								"id" : "u520008922",
+								"loop" : 0,
+								"content_state" : 								{
+
 								}
 
 							}
