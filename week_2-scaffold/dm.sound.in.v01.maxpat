@@ -189,16 +189,16 @@
 , 			{
 				"box" : 				{
 					"basictuning" : 0,
-					"clipheight" : 22.600000000000001,
+					"clipheight" : 20.0,
 					"data" : 					{
 						"clips" : [ 							{
 								"absolutepath" : "/Users/elektronischesstudio/Documents/Universidad/synth-tech-media/648437__timouse__piano-loop-21.wav",
 								"filename" : "648437__timouse__piano-loop-21.wav",
 								"filekind" : "audiofile",
 								"id" : "u051009999",
-								"loop" : 0,
+								"loop" : 1,
 								"content_state" : 								{
-
+									"loop" : 1
 								}
 
 							}
@@ -209,7 +209,7 @@
 								"id" : "u185008925",
 								"loop" : 0,
 								"content_state" : 								{
-
+									"loop" : 0
 								}
 
 							}
@@ -218,9 +218,9 @@
 								"filename" : "RB.vox.sung.consonants.ki.Db4.wav",
 								"filekind" : "audiofile",
 								"id" : "u400008924",
-								"loop" : 0,
+								"loop" : 1,
 								"content_state" : 								{
-
+									"loop" : 1
 								}
 
 							}
@@ -243,6 +243,17 @@
 								"loop" : 0,
 								"content_state" : 								{
 
+								}
+
+							}
+, 							{
+								"absolutepath" : "senita-8ch.wav",
+								"filename" : "senita-8ch.wav",
+								"filekind" : "audiofile",
+								"id" : "u480001273",
+								"loop" : 1,
+								"content_state" : 								{
+									"loop" : 1
 								}
 
 							}
